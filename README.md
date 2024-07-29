@@ -1,6 +1,8 @@
 # LLM4BrazilianFakeNews
 
-# Req
+Paper submited to the conference ENIAC 2024
+
+# Requirements
  - python >= 3.12
  - pandas
  - ollama
