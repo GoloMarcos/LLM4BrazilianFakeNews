@@ -25,11 +25,14 @@ If you use any part of this code in your research, please cite it using the foll
 # Abstract 
 Machine learning methods are proposed to mitigate the spread of fake Brazilian news about politics so as not to harm society. Supervised algorithms are explored, requiring labeled news to train. However, labeling a high volume of news can be complex, onerous, time-consuming, error-prone, and costly. Hence, large language models (LLMs) have been used to detect fake news once LLMs are unsupervised methods that can play the role of classifiers. Most fake news detection studies explore the OpenAI LLMs (require payment) and lack an empirical evaluation with other LLMs. However, several open-source models obtain comparative and state-of-the-art (SOTA) results. We highlight that these models have yet to be explored in detecting fake Brazilian news about politics, which is crucial as it directly impacts society. In this sense, we propose a new dataset for detecting fake Brazilian news about politics and an empirical evaluation of open-source LLMs and OpenAI LLMs. In our results, the LLM from Google (Gemma) outperformed the other six LLMs, including GPT-4, proving to be the most promising model for detecting fake news about Brazilian politics.
 
-#
+# Proposal
+![Proposal](/images/proposal.png)
 
-#
+# Results
+![Results](/images/results.png)
 
-#
+# Plot 2D
+![Resultsplot](/images/tsne.png)
 
 # Requirements
  - python >= 3.12
